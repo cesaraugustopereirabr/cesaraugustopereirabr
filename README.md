@@ -151,23 +151,26 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 <br><br>
 
-## Principais Tecnologias e Ferramentas
+## Tecnologias e Ferramentas que utilizo na prática
 
 <div align="center">
 
 | Ícone | Ferramenta |
 |------|------------|
-| <img src="https://skillicons.dev/icons?i=python" width="45"/> | Python |
-| <img src="https://skillicons.dev/icons?i=git" width="45"/> | Git |
-| <img src="https://skillicons.dev/icons?i=github" width="45"/> | GitHub |
-| <img src="https://skillicons.dev/icons?i=linux" width="45"/> | Linux |
-| <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | FastAPI |
-| <img src="https://skillicons.dev/icons?i=opencv" width="45"/> | OpenCV |
-| <img src="https://skillicons.dev/icons?i=powershell" width="45"/> | PowerShell |
-| <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | MySQL |
-| <img src="https://skillicons.dev/icons?i=vscode" width="45"/> | VS Code |
-| <img src="https://skillicons.dev/icons?i=idea" width="45"/> | JetBrains IDEs |
-  
+| <img src="https://skillicons.dev/icons?i=python" width="45"/> | Python – base de automações, IA e ciência de dados |
+| <img src="https://skillicons.dev/icons?i=pandas" width="45"/> | Pandas – análise e manipulação de dados jurídicos |
+| <img src="https://skillicons.dev/icons?i=numpy" width="45"/> | NumPy – cálculos e estruturas numéricas |
+| <img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/> | Scikit-Learn – machine learning aplicado ao Direito |
+| <img src="https://skillicons.dev/icons?i=opencv" width="45"/> | OpenCV – visão computacional (ex.: reconhecimento facial) |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | FastAPI – APIs para fluxos jurídicos e automações |
+| <img src="https://skillicons.dev/icons?i=sql" width="45"/> | SQL – consultas e estruturação de bases jurídicas |
+| <img src="https://skillicons.dev/icons?i=powerbi" width="45"/> | Power BI – dashboards e relatórios jurídicos |
+| <img src="https://skillicons.dev/icons?i=git" width="45"/> | Git – versionamento de projetos jurídicos e scripts |
+| <img src="https://skillicons.dev/icons?i=github" width="45"/> | GitHub – portfólio, pipelines e colaboração |
+| <img src="https://skillicons.dev/icons?i=linux" width="45"/> | Linux – ambiente para scripts, serviços e automações |
+| <img src="https://skillicons.dev/icons?i=powershell" width="45"/> | PowerShell – automações internas e integrações |
+| <img src="https://skillicons.dev/icons?i=vscode" width="45"/> | VS Code – IDE principal de desenvolvimento |
+
 </div>
 
 
