@@ -159,13 +159,10 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 <br><br>
 
-<!-- Elegant Quote Banner -->
+<!-- Elegant Quote Banner (atualizado) -->
 <img 
-  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=A%20uni%C3%A3o%20entre%20Direito,%20ci%C3%AAncia%20de%20dados%20e%20IA%20%C3%A9%20o%20futuro%20da%20efici%C3%AAncia%20jur%C3%ADdica.&author=Cesar%20Augusto"
+  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=A%20integra%C3%A7%C3%A3o%20estrat%C3%A9gica%20entre%20Direito,%20Ci%C3%AAncia%20de%20Dados%20e%20Intelig%C3%AAncia%20Artificial%20constitui%20o%20n%C3%BAcleo%20da%20pr%C3%B3xima%20era%20de%20performance%20e%20racionalidade%20jur%C3%ADdica.&author=Cesar%20Augusto" 
 />
-
-</div>
-
 
 ---
 
