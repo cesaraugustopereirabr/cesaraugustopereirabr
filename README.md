@@ -34,17 +34,7 @@ Minha experiência inclui gestão de processos jurídicos, criação de fluxos e
 - Junior Partner – SiqueiraCastro  
 - Membro ativo das comissões da OAB/PR: IA, Direito Digital e Inovação  
 - Membro da AB2L e da Associação Brasileira de Jurimetria  
-
----
-
-## Projetos e Pesquisa
-
-Atuo em iniciativas envolvendo:  
-- Reconhecimento facial  
-- Machine learning aplicado ao setor jurídico  
-- Automação de fluxos e pipelines jurídicos  
-- Ciência de dados aplicada a decisões estratégicas  
-- Estudos em IA, ética, tecnologia e inovação no Direito  
+  
 
 ---
 
