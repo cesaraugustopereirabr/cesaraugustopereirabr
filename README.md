@@ -114,26 +114,30 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 <div align="center">
 
-<!-- Stats -->
+<!-- Trophy Card -->
 <img 
-  height="160" 
-  src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&count_private=true&include_all_commits=true&theme=default"
+  src="https://github-profile-trophy.vercel.app/?username=cesaraugustopereirabr&theme=flat&no-frame=true&margin-w=10" 
+  alt="Trophies"
 />
 
-<!-- Top Languages -->
+<br><br>
+
+<!-- Activity Graph -->
 <img 
-  height="160" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&langs_count=10&theme=default"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=cesaraugustopereirabr&theme=github-light" 
+  alt="Activity Graph"
 />
+
+<br><br>
 
 <!-- Streak Stats -->
 <img 
-  height="160" 
-  src="https://streak-stats.demolab.com?user=cesaraugustopereirabr&theme=default"
+  src="https://streak-stats.demolab.com?user=cesaraugustopereirabr&theme=default" 
+  alt="GitHub Streak"
 />
 
 </div>
-  
+
 ---
 
 ## Contato
