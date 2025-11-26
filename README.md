@@ -138,6 +138,35 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 </div>
 
+## GitHub Highlights
+
+<div align="center">
+
+<!-- Dev Metrics (card avançado e completo) -->
+<img 
+  src="https://github-readme-stats-salesp07.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" 
+  height="180"
+  alt="Dev Metrics"
+/>
+
+<br><br>
+
+<!-- Skill Icons (cartão de stack visual) -->
+<img 
+  src="https://skillicons.dev/icons?i=python,git,github,linux,fastapi,opencv,powershell,mysql,idea,vscode&perline=8" 
+  alt="Tech Stack"
+/>
+
+<br><br>
+
+<!-- Elegant Quote Banner -->
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=A%20uni%C3%A3o%20entre%20Direito,%20ci%C3%AAncia%20de%20dados%20e%20IA%20%C3%A9%20o%20futuro%20da%20efici%C3%AAncia%20jur%C3%ADdica.&author=Cesar%20Augusto"
+/>
+
+</div>
+
+
 ---
 
 ## Contato
