@@ -138,13 +138,6 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 </div>
 
-<a href="https://github.com/cesaraugustopereirabr">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/cesaraugustopereirabr">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&theme=default" />
-</a>
-
 ---
 
 ## Contato
