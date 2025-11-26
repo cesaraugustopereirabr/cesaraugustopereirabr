@@ -49,16 +49,9 @@ Atuo em iniciativas envolvendo:
 ---
 
 ## GitHub Analytics
-
 <p align="left">
-  <img 
-    height="160px" 
-    src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="160px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&langs_count=10"
-  />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&include_all_commits=true&count_private=true" alt="Cesar Augusto - GitHub Stats" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 
