@@ -33,7 +33,78 @@ Minha experiência inclui gestão de processos jurídicos, criação de fluxos e
 - Controller Jurídico – Grupo Sipal  
 - Junior Partner – SiqueiraCastro  
 - Membro ativo das comissões da OAB/PR: IA, Direito Digital e Inovação  
-- Membro da AB2L e da Associação Brasileira de Jurimetria  
+- Membro da AB2L e da Associação Brasileira de Jurimetria
+
+---
+
+## Linha do Tempo Profissional
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">2019<br><strong>Início na Advocacia</strong></td>
+<td>➤</td>
+<td align="center">2022<br><strong>Controladoria Jurídica / Gestão</strong></td>
+<td>➤</td>
+<td align="center">2023<br><strong>Especialização em Dados</strong></td>
+<td>➤</td>
+<td align="center">2024–2025<br><strong>Legal Ops + IA + Mentorias</strong></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Tecnologias, Ferramentas e Áreas de Atuação Técnica
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><strong>Python</strong><br>Automação, ML, scripts jurídicos</td>
+<td align="center"><strong>Power BI</strong><br>Dashboards jurídicos e métricas</td>
+<td align="center"><strong>SQL</strong><br>Consultas e modelagem de dados</td>
+<td align="center"><strong>Git & GitHub</strong><br>Versionamento e projetos</td>
+</tr>
+<tr>
+<td align="center"><strong>OpenCV</strong><br>Visão computacional</td>
+<td align="center"><strong>FastAPI</strong><br>Serviços internos e APIs</td>
+<td align="center"><strong>RPA</strong><br>Automação de rotinas jurídicas</td>
+<td align="center"><strong>Jurimetria</strong><br>Análise estratégica do Judiciário</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Projetos em Destaque
+
+### Reconhecimento Facial aplicado ao Direito
+Projeto de estudo que une visão computacional, Python e análise de imagens para identificar padrões, categorias e fluxos possíveis para automações no ambiente jurídico.
+
+### Automação Jurídica Full-Stack
+Construção de pipelines para:
+- Organização de intimações e publicações  
+- Extração de dados de sistemas jurídicos  
+- Criação de relatórios estratégicos automatizados  
+
+### Jurimetria e Predição de Resultados
+Estudos sobre o uso de dados públicos do Judiciário para compreender comportamentos processuais, inferir padrões e auxiliar a tomada de decisões.
+
+---
+
+## O que me diferencia
+
+- Mentalidade orientada a dados  
+- Domínio profundo de operações jurídicas  
+- Capacidade de traduzir problemas jurídicos em soluções técnicas  
+- Forte base em automação e eficiência  
+- Visão estratégica de governança e tecnologia jurídica  
+- Foco em IA aplicada a problemas reais  
+  
   
 
 ---
