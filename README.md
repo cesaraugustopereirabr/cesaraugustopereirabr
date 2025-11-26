@@ -151,13 +151,25 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 <br><br>
 
-<!-- Skill Icons (cartão de stack visual) -->
-<img 
-  src="https://skillicons.dev/icons?i=python,git,github,linux,fastapi,opencv,powershell,mysql,idea,vscode&perline=8" 
-  alt="Tech Stack"
-/>
+## Principais Tecnologias e Ferramentas
 
-<br><br>
+<div align="center">
+
+| Ícone | Ferramenta |
+|------|------------|
+| <img src="https://skillicons.dev/icons?i=python" width="45"/> | Python |
+| <img src="https://skillicons.dev/icons?i=git" width="45"/> | Git |
+| <img src="https://skillicons.dev/icons?i=github" width="45"/> | GitHub |
+| <img src="https://skillicons.dev/icons?i=linux" width="45"/> | Linux |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | FastAPI |
+| <img src="https://skillicons.dev/icons?i=opencv" width="45"/> | OpenCV |
+| <img src="https://skillicons.dev/icons?i=powershell" width="45"/> | PowerShell |
+| <img src="https://skillicons.dev/icons?i=mysql" width="45"/> | MySQL |
+| <img src="https://skillicons.dev/icons?i=vscode" width="45"/> | VS Code |
+| <img src="https://skillicons.dev/icons?i=idea" width="45"/> | JetBrains IDEs |
+  
+</div>
+
 
 <!-- Elegant Quote Banner (atualizado) -->
 <img 
