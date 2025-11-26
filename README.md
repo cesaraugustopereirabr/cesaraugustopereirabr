@@ -43,17 +43,20 @@ Minha experiência inclui gestão de processos jurídicos, criação de fluxos e
 
 <table>
 <tr>
-<td align="center">2019<br><strong>Início na Advocacia</strong></td>
+<td align="center">2016–2019<br><strong>Legaltech</strong><br>Atuação técnica unindo Direito e tecnologia, desenvolvendo soluções digitais, automações e processos jurídicos inteligentes.</td>
 <td>➤</td>
-<td align="center">2022<br><strong>Controladoria Jurídica / Gestão</strong></td>
+<td align="center">2019<br><strong>Início na Advocacia</strong><br>Atuação direta com clientes, contencioso e prática jurídica tradicional.</td>
 <td>➤</td>
-<td align="center">2023<br><strong>Especialização em Dados</strong></td>
+<td align="center">2022<br><strong>Controladoria Jurídica</strong><br>Estruturação de fluxos, governança e eficiência operacional.</td>
 <td>➤</td>
-<td align="center">2024–2025<br><strong>Legal Ops + IA + Mentorias</strong></td>
+<td align="center">2023<br><strong>Especialização em Dados</strong><br>Entrada formal na Ciência de Dados e IA.</td>
+<td>➤</td>
+<td align="center">2024–2025<br><strong>Legal Ops + IA</strong><br>Atuação avançada em automação, jurimetria, ML e inovação jurídica.</td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
