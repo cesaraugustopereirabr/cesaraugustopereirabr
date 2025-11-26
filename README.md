@@ -106,10 +106,34 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 - Capacidade de traduzir problemas jurídicos em soluções técnicas  
 - Forte base em automação e eficiência  
 - Visão estratégica de governança e tecnologia jurídica  
-- Foco em IA aplicada a problemas reais  
-  
-  
+- Foco em IA aplicada a problemas reais
 
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<!-- Stats -->
+<img 
+  height="160" 
+  src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&count_private=true&include_all_commits=true&theme=default"
+/>
+
+<!-- Top Languages -->
+<img 
+  height="160" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&langs_count=10&theme=default"
+/>
+
+<!-- Streak Stats -->
+<img 
+  height="160" 
+  src="https://streak-stats.demolab.com?user=cesaraugustopereirabr&theme=default"
+/>
+
+</div>
+  
 ---
 
 ## Contato
