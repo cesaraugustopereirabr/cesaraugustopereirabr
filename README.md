@@ -50,12 +50,17 @@ Atuo em iniciativas envolvendo:
 
 ## GitHub Analytics
 
-<a href="https://github.com/cesaraugustopereirabr">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/cesaraugustopereirabr">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&theme=default" />
-</a>
+<p align="left">
+  <img 
+    height="160px" 
+    src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="160px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&langs_count=10"
+  />
+</p>
+
 
 ---
 
