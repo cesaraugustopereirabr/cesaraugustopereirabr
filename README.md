@@ -1,16 +1,65 @@
-## Hi there 👋
+# Cesar Augusto Pereira
 
-<!--
-**cesaraugustopereirabr/cesaraugustopereirabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advogado especializado em Legal Operations, Controladoria Jurídica, Automação e Ciência de Dados. Atuo na interseção entre Direito, tecnologia e inteligência artificial, desenvolvendo soluções orientadas por dados para aumentar eficiência, reduzir custos e estruturar operações jurídicas de alto desempenho.
 
-Here are some ideas to get you started:
+Minha experiência inclui gestão de processos jurídicos, criação de fluxos e automações, governança informacional, dashboards, análise de dados e transformação digital em escritórios e departamentos jurídicos. Curso minha segunda graduação em Ciência de Dados e Inteligência Artificial e desenvolvo projetos relacionados a machine learning, processamento de imagens e automação inteligente aplicada ao Direito.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Principais Competências
+
+- Legal Operations e Controladoria Jurídica  
+- Automação de Fluxos Jurídicos  
+- Processamento de Dados e Dashboards  
+- Inteligência Artificial e Machine Learning  
+- Gestão de Informações e Governança Jurídica  
+- Direito Digital e Proteção de Dados  
+
+---
+
+## Formação Acadêmica
+
+- Bacharelado em Ciência de Dados e Inteligência Artificial – UniDomBosco  
+- Pós-graduação em Processo Civil e Métodos de Solução Consensual de Conflitos – UniDomBosco  
+- Pós-graduação em Compliance e Governança Jurídica – FAE  
+- Bacharelado em Direito – UniDomBosco  
+
+---
+
+## Experiência Resumida
+
+- Controller Jurídico – Casillo Advogados  
+- Mentor em Ciência de Dados aplicada ao Direito – Natrilha  
+- Controller Jurídico – Grupo Sipal  
+- Junior Partner – SiqueiraCastro  
+- Membro ativo das comissões da OAB/PR: IA, Direito Digital e Inovação  
+- Membro da AB2L e da Associação Brasileira de Jurimetria  
+
+---
+
+## Projetos e Pesquisa
+
+Atuo em iniciativas envolvendo:  
+- Reconhecimento facial  
+- Machine learning aplicado ao setor jurídico  
+- Automação de fluxos e pipelines jurídicos  
+- Ciência de dados aplicada a decisões estratégicas  
+- Estudos em IA, ética, tecnologia e inovação no Direito  
+
+---
+
+## GitHub Analytics
+
+<a href="https://github.com/cesaraugustopereirabr">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/cesaraugustopereirabr">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustopereirabr&layout=compact&theme=default" />
+</a>
+
+---
+
+## Contato
+
+- Email: **cesaraugustopereirabr@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/cesaraugustopereirabr**  
