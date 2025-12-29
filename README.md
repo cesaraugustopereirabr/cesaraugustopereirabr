@@ -94,9 +94,21 @@ Atualmente, curso minha segunda graduação em **Ciência de Dados e Inteligênc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,github,linux,powershell,vscode,excel" />
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,opencv,fastapi,sql,git,github,linux,vscode" />
 
 </div>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-black?style=flat&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Advanced-black?style=flat&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-Automation-black?style=flat&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPA-Jur%C3%ADdico-black?style=flat"/>
+<img src="https://img.shields.io/badge/Legal%20Ops-Governance-black?style=flat"/>
+
+</div>
+
 
 ---
 
