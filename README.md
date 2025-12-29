@@ -1,83 +1,100 @@
-# Cesar Augusto Pereira
+# Cesar Augusto Pereira  
+**Advogado | Legal Operations | Ciência de Dados & Inteligência Artificial**
 
-Advogado especializado em Legal Operations, Controladoria Jurídica, Automação e Ciência de Dados. Atuo na interseção entre Direito, tecnologia e inteligência artificial, desenvolvendo soluções orientadas por dados para aumentar eficiência, reduzir custos e estruturar operações jurídicas de alto desempenho.
+<p align="center">
+Atuação estratégica na interseção entre <strong>Direito, Tecnologia e Dados</strong>, com foco em eficiência operacional, automação inteligente e tomada de decisão orientada por evidências.
+</p>
 
-Minha experiência inclui gestão de processos jurídicos, criação de fluxos e automações, governança informacional, dashboards, análise de dados e transformação digital em escritórios e departamentos jurídicos. Curso minha segunda graduação em Ciência de Dados e Inteligência Artificial e desenvolvo projetos relacionados a machine learning, processamento de imagens e automação inteligente aplicada ao Direito.
+<p align="center">
+<a href="mailto:cesaraugustopereirabr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato%20Direto-black?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/cesaraugustopereirabr" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-black?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/cesaraugustopereirabr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Portf%C3%B3lio-black?style=flat&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## Principais Competências
+## Visão Profissional
 
-- Legal Operations e Controladoria Jurídica  
-- Automação de Fluxos Jurídicos  
-- Processamento de Dados e Dashboards  
-- Inteligência Artificial e Machine Learning  
-- Gestão de Informações e Governança Jurídica  
-- Direito Digital e Proteção de Dados  
+Sou advogado especializado em **Legal Operations, Controladoria Jurídica, Automação e Ciência de Dados**, atuando na estruturação de operações jurídicas de alto desempenho.
+
+Minha prática profissional combina:
+- Gestão jurídica avançada  
+- Automação de fluxos e rotinas  
+- Análise de dados e jurimetria  
+- Aplicação prática de IA no ambiente jurídico  
+
+Atualmente, curso minha segunda graduação em **Ciência de Dados e Inteligência Artificial**, desenvolvendo projetos em **machine learning, visão computacional e automação inteligente aplicada ao Direito**.
+
+---
+
+## Core Skills
+
+<div align="center">
+
+| Jurídico-Estratégico | Tecnologia & Dados |
+|--------------------|-------------------|
+| Legal Operations | Python |
+| Controladoria Jurídica | SQL |
+| Governança Jurídica | Power BI |
+| Direito Digital e LGPD | Machine Learning |
+| Compliance | Automação (RPA & APIs) |
+
+</div>
 
 ---
 
 ## Formação Acadêmica
 
-- Bacharelado em Ciência de Dados e Inteligência Artificial – UniDomBosco  
-- Pós-graduação em Processo Civil e Métodos de Solução Consensual de Conflitos – UniDomBosco  
-- Pós-graduação em Compliance e Governança Jurídica – FAE  
-- Bacharelado em Direito – UniDomBosco  
+- **Bacharelado em Ciência de Dados e Inteligência Artificial** – UniDomBosco  
+- **Pós-graduação em Compliance e Governança Jurídica** – FAE  
+- **Pós-graduação em Processo Civil e Métodos de Solução Consensual de Conflitos** – UniDomBosco  
+- **Bacharelado em Direito** – UniDomBosco  
 
 ---
 
-## Experiência Resumida
+## Experiência Profissional (Resumo)
 
-- Controller Jurídico – Casillo Advogados  
-- Mentor em Ciência de Dados aplicada ao Direito – Natrilha  
-- Controller Jurídico – Grupo Sipal  
-- Junior Partner – SiqueiraCastro  
-- Membro ativo das comissões da OAB/PR: IA, Direito Digital e Inovação  
-- Membro da AB2L e da Associação Brasileira de Jurimetria
+- **Controller Jurídico** – Casillo Advogados  
+- **Controller Jurídico** – Grupo Sipal  
+- **Mentor em Ciência de Dados aplicada ao Direito** – Natrilha  
+- **Junior Partner** – SiqueiraCastro  
+- **Membro ativo – OAB/PR**  
+  - Comissão de Inteligência Artificial  
+  - Comissão de Direito Digital  
+  - Comissão de Inovação  
+- **Associado**  
+  - AB2L – Associação Brasileira de Lawtechs e Legaltechs  
+  - Associação Brasileira de Jurimetria  
 
 ---
 
-## Linha do Tempo Profissional
+## Evolução Profissional
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">2016–2019<br><strong>Legaltech</strong><br>Atuação técnica unindo Direito e tecnologia, desenvolvendo soluções digitais, automações e processos jurídicos inteligentes.</td>
-<td>➤</td>
-<td align="center">2019<br><strong>Início na Advocacia</strong><br>Atuação direta com clientes, contencioso e prática jurídica tradicional.</td>
-<td>➤</td>
-<td align="center">2022<br><strong>Controladoria Jurídica</strong><br>Estruturação de fluxos, governança e eficiência operacional.</td>
-<td>➤</td>
-<td align="center">2023<br><strong>Especialização em Dados</strong><br>Entrada formal na Ciência de Dados e IA.</td>
-<td>➤</td>
-<td align="center">2024–2025<br><strong>Legal Ops + IA</strong><br>Atuação avançada em automação, jurimetria, ML e inovação jurídica.</td>
-</tr>
-</table>
+| Período | Fase |
+|-------|------|
+| 2016–2019 | Legaltech e soluções jurídicas digitais |
+| 2019 | Início da advocacia contenciosa |
+| 2022 | Controladoria Jurídica e governança |
+| 2023 | Especialização em Ciência de Dados |
+| 2024–2025 | Legal Ops + IA aplicada |
 
 </div>
 
-
 ---
 
-## Tecnologias, Ferramentas e Áreas de Atuação Técnica
+## Stack Tecnológica
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><strong>Python</strong><br>Automação, ML, scripts jurídicos</td>
-<td align="center"><strong>Power BI</strong><br>Dashboards jurídicos e métricas</td>
-<td align="center"><strong>SQL</strong><br>Consultas e modelagem de dados</td>
-<td align="center"><strong>Git & GitHub</strong><br>Versionamento e projetos</td>
-</tr>
-<tr>
-<td align="center"><strong>OpenCV</strong><br>Visão computacional</td>
-<td align="center"><strong>FastAPI</strong><br>Serviços internos e APIs</td>
-<td align="center"><strong>RPA</strong><br>Automação de rotinas jurídicas</td>
-<td align="center"><strong>Jurimetria</strong><br>Análise estratégica do Judiciário</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,opencv,fastapi,sql,powerbi,git,github,linux,powershell,vscode" />
 
 </div>
 
@@ -86,27 +103,27 @@ Minha experiência inclui gestão de processos jurídicos, criação de fluxos e
 ## Projetos em Destaque
 
 ### Reconhecimento Facial aplicado ao Direito
-Projeto de estudo que une visão computacional, Python e análise de imagens para identificar padrões, categorias e fluxos possíveis para automações no ambiente jurídico.
+Estudo em visão computacional com Python e OpenCV para identificação de padrões visuais e possibilidades de automação em fluxos jurídicos.
 
-### Automação Jurídica Full-Stack
-Construção de pipelines para:
-- Organização de intimações e publicações  
-- Extração de dados de sistemas jurídicos  
-- Criação de relatórios estratégicos automatizados  
+### Automação Jurídica Full Stack
+Desenvolvimento de pipelines para:
+- Captura e organização de intimações  
+- Extração de dados de sistemas judiciais  
+- Geração automática de relatórios estratégicos  
 
 ### Jurimetria e Predição de Resultados
-Estudos sobre o uso de dados públicos do Judiciário para compreender comportamentos processuais, inferir padrões e auxiliar a tomada de decisões.
+Análise de dados públicos do Judiciário para inferência de padrões decisórios e apoio à tomada de decisão jurídica.
 
 ---
 
-## O que me diferencia
+## Diferenciais Estratégicos
 
-- Mentalidade orientada a dados  
-- Domínio profundo de operações jurídicas  
-- Capacidade de traduzir problemas jurídicos em soluções técnicas  
-- Forte base em automação e eficiência  
-- Visão estratégica de governança e tecnologia jurídica  
-- Foco em IA aplicada a problemas reais
+- Pensamento jurídico orientado a dados  
+- Forte domínio operacional do Direito  
+- Tradução de problemas jurídicos em soluções técnicas  
+- Automação como vetor de eficiência  
+- Visão sistêmica de governança e tecnologia  
+- IA aplicada a problemas reais, não teóricos  
 
 ---
 
@@ -114,74 +131,34 @@ Estudos sobre o uso de dados públicos do Judiciário para compreender comportam
 
 <div align="center">
 
-<!-- Trophy Card -->
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=cesaraugustopereirabr&theme=flat&no-frame=true&margin-w=10" 
-  alt="Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=cesaraugustopereirabr&theme=flat&no-frame=true&margin-w=10" />
 
 <br><br>
 
-<!-- Activity Graph -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cesaraugustopereirabr&theme=github-light" 
-  alt="Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cesaraugustopereirabr&theme=github-light" />
 
 <br><br>
 
-<!-- Streak Stats -->
-<img 
-  src="https://streak-stats.demolab.com?user=cesaraugustopereirabr&theme=default" 
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=cesaraugustopereirabr&theme=default" />
 
 </div>
-
-## GitHub Highlights
-
-<div align="center">
-
-<!-- Dev Metrics (card avançado e completo) -->
-<img 
-  src="https://github-readme-stats-salesp07.vercel.app/api?username=cesaraugustopereirabr&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" 
-  height="180"
-  alt="Dev Metrics"
-/>
-
-<br><br>
-
-## Tecnologias e Ferramentas que utilizo na prática
-
-<div align="center">
-
-| Ícone | Ferramenta |
-|------|------------|
-| <img src="https://skillicons.dev/icons?i=python" width="45"/> | Python – base de automações, IA e ciência de dados |
-| <img src="https://skillicons.dev/icons?i=pandas" width="45"/> | Pandas – análise e manipulação de dados jurídicos |
-| <img src="https://skillicons.dev/icons?i=numpy" width="45"/> | NumPy – cálculos e estruturas numéricas |
-| <img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/> | Scikit-Learn – machine learning aplicado ao Direito |
-| <img src="https://skillicons.dev/icons?i=opencv" width="45"/> | OpenCV – visão computacional (ex.: reconhecimento facial) |
-| <img src="https://skillicons.dev/icons?i=fastapi" width="45"/> | FastAPI – APIs para fluxos jurídicos e automações |
-| <img src="https://skillicons.dev/icons?i=sql" width="45"/> | SQL – consultas e estruturação de bases jurídicas |
-| <img src="https://skillicons.dev/icons?i=powerbi" width="45"/> | Power BI – dashboards e relatórios jurídicos |
-| <img src="https://skillicons.dev/icons?i=git" width="45"/> | Git – versionamento de projetos jurídicos e scripts |
-| <img src="https://skillicons.dev/icons?i=github" width="45"/> | GitHub – portfólio, pipelines e colaboração |
-| <img src="https://skillicons.dev/icons?i=linux" width="45"/> | Linux – ambiente para scripts, serviços e automações |
-| <img src="https://skillicons.dev/icons?i=powershell" width="45"/> | PowerShell – automações internas e integrações |
-| <img src="https://skillicons.dev/icons?i=vscode" width="45"/> | VS Code – IDE principal de desenvolvimento |
-
-</div>
-
-
-<!-- Elegant Quote Banner (atualizado) -->
-<img 
-  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=A%20integra%C3%A7%C3%A3o%20estrat%C3%A9gica%20entre%20Direito,%20Ci%C3%AAncia%20de%20Dados%20e%20Intelig%C3%AAncia%20Artificial%20constitui%20o%20n%C3%BAcleo%20da%20pr%C3%B3xima%20era%20de%20performance%20e%20racionalidade%20jur%C3%ADdica.&author=Cesar%20Augusto" 
-/>
 
 ---
 
-## Contato
+## Contato Profissional
 
-- Email: **cesaraugustopereirabr@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/cesaraugustopereirabr**  
+<p align="center">
+📧 <strong>Email:</strong> <a href="mailto:cesaraugustopereirabr@gmail.com">cesaraugustopereirabr@gmail.com</a><br>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cesaraugustopereirabr">linkedin.com/in/cesaraugustopereirabr</a><br>
+💻 <strong>GitHub:</strong> <a href="https://github.com/cesaraugustopereirabr">github.com/cesaraugustopereirabr</a>
+</p>
+
+---
+
+## Filosofia Profissional
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=A%20integra%C3%A7%C3%A3o%20estrat%C3%A9gica%20entre%20Direito,%20Ci%C3%AAncia%20de%20Dados%20e%20Intelig%C3%AAncia%20Artificial%20%C3%A9%20o%20fundamento%20da%20pr%C3%B3xima%20gera%C3%A7%C3%A3o%20de%20opera%C3%A7%C3%B5es%20jur%C3%ADdicas.&author=Cesar%20Augusto" />
+
+</div>
