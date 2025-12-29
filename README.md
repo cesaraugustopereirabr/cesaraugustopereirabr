@@ -155,7 +155,7 @@ Análise de dados públicos do Judiciário para inferência de padrões decisór
 
 ---
 
-## Filosofia Profissional
+
 
 <div align="center">
 
