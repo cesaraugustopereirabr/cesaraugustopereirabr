@@ -159,6 +159,8 @@ Análise de dados públicos do Judiciário para inferência de padrões decisór
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=A%20integra%C3%A7%C3%A3o%20estrat%C3%A9gica%20entre%20Direito,%20Ci%C3%AAncia%20de%20Dados%20e%20Intelig%C3%AAncia%20Artificial%20%C3%A9%20o%20fundamento%20da%20pr%C3%B3xima%20gera%C3%A7%C3%A3o%20de%20opera%C3%A7%C3%B5es%20jur%C3%ADdicas.&author=Cesar%20Augusto" />
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=Transformar%20complexidade%20jur%C3%ADdica%20em%20decis%C3%B5es%20estrat%C3%A9gicas%20por%20meio%20de%20dados,%20automa%C3%A7%C3%A3o%20e%20intelig%C3%AAncia%20artificial%20%C3%A9%20o%20meu%20campo%20de%20atua%C3%A7%C3%A3o.&author=Cesar%20Augusto" 
+/>
 
 </div>
