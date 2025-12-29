@@ -94,7 +94,7 @@ Atualmente, curso minha segunda graduação em **Ciência de Dados e Inteligênc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,opencv,fastapi,sql,powerbi,git,github,linux,powershell,vscode" />
+<img src="https://skillicons.dev/icons?i=python,sql,powerbi,github,linux,powershell,vscode,microsoftexcel" />
 
 </div>
 
